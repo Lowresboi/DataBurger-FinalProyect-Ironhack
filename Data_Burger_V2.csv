@@ -1,0 +1,549 @@
+marketid,marketsize,locationid,ageofstore,promotion,week,sales
+USA,Medium,1,4,Tableau Pork BBQ,1,33730
+USA,Medium,1,4,Tableau Pork BBQ,2,35670
+USA,Medium,1,4,Tableau Pork BBQ,3,29030
+USA,Medium,1,4,Tableau Pork BBQ,4,39250
+USA,Medium,2,5,Python Angus,1,27810
+USA,Medium,2,5,Python Angus,2,34670
+USA,Medium,2,5,Python Angus,3,27980
+USA,Medium,2,5,Python Angus,4,27720
+USA,Medium,3,12,Query Blue Cheese,1,44540
+USA,Medium,3,12,Query Blue Cheese,2,37940
+USA,Medium,3,12,Query Blue Cheese,3,45490
+USA,Medium,3,12,Query Blue Cheese,4,34750
+USA,Medium,4,1,Python Angus,1,39280
+USA,Medium,4,1,Python Angus,2,39800
+USA,Medium,4,1,Python Angus,3,24770
+USA,Medium,4,1,Python Angus,4,30980
+USA,Medium,5,10,Python Angus,1,30370
+USA,Medium,5,10,Python Angus,2,24820
+USA,Medium,5,10,Python Angus,3,37470
+USA,Medium,5,10,Python Angus,4,23350
+USA,Medium,6,10,Tableau Pork BBQ,1,32900
+USA,Medium,6,10,Tableau Pork BBQ,2,22180
+USA,Medium,6,10,Tableau Pork BBQ,3,42980
+USA,Medium,6,10,Tableau Pork BBQ,4,26680
+USA,Medium,7,15,Query Blue Cheese,1,42920
+USA,Medium,7,15,Query Blue Cheese,2,42160
+USA,Medium,7,15,Query Blue Cheese,3,51720
+USA,Medium,7,15,Query Blue Cheese,4,36170
+USA,Medium,8,10,Python Angus,1,30080
+USA,Medium,8,10,Python Angus,2,28620
+USA,Medium,8,10,Python Angus,3,25400
+USA,Medium,8,10,Python Angus,4,27260
+USA,Medium,9,6,Query Blue Cheese,1,37410
+USA,Medium,9,6,Query Blue Cheese,2,38640
+USA,Medium,9,6,Query Blue Cheese,3,40900
+USA,Medium,9,6,Query Blue Cheese,4,41110
+USA,Medium,10,5,Python Angus,1,34270
+USA,Medium,10,5,Python Angus,2,29300
+USA,Medium,10,5,Python Angus,3,23930
+USA,Medium,10,5,Python Angus,4,35160
+USA,Medium,11,5,Tableau Pork BBQ,1,33420
+USA,Medium,11,5,Tableau Pork BBQ,2,37930
+USA,Medium,11,5,Tableau Pork BBQ,3,33850
+USA,Medium,11,5,Tableau Pork BBQ,4,40250
+USA,Medium,12,12,Query Blue Cheese,1,35850
+USA,Medium,12,12,Query Blue Cheese,2,36240
+USA,Medium,12,12,Query Blue Cheese,3,41730
+USA,Medium,12,12,Query Blue Cheese,4,37320
+USA,Medium,13,12,Query Blue Cheese,1,50480
+USA,Medium,13,12,Query Blue Cheese,2,36880
+USA,Medium,13,12,Query Blue Cheese,3,35680
+USA,Medium,13,12,Query Blue Cheese,4,46450
+Canada,Small,101,22,Query Blue Cheese,1,67480
+Canada,Small,101,22,Query Blue Cheese,2,65570
+Canada,Small,101,22,Query Blue Cheese,3,68420
+Canada,Small,101,22,Query Blue Cheese,4,60930
+Canada,Small,102,8,Tableau Pork BBQ,1,61590
+Canada,Small,102,8,Tableau Pork BBQ,2,63640
+Canada,Small,102,8,Tableau Pork BBQ,3,54680
+Canada,Small,102,8,Tableau Pork BBQ,4,61240
+Canada,Small,103,22,Tableau Pork BBQ,1,62930
+Canada,Small,103,22,Tableau Pork BBQ,2,58770
+Canada,Small,103,22,Tableau Pork BBQ,3,70600
+Canada,Small,103,22,Tableau Pork BBQ,4,65060
+Canada,Small,104,19,Tableau Pork BBQ,1,59760
+Canada,Small,104,19,Tableau Pork BBQ,2,66110
+Canada,Small,104,19,Tableau Pork BBQ,3,62160
+Canada,Small,104,19,Tableau Pork BBQ,4,64040
+Canada,Small,105,8,Tableau Pork BBQ,1,59650
+Canada,Small,105,8,Tableau Pork BBQ,2,57040
+Canada,Small,105,8,Tableau Pork BBQ,3,59730
+Canada,Small,105,8,Tableau Pork BBQ,4,56720
+Canada,Small,106,5,Tableau Pork BBQ,1,58550
+Canada,Small,106,5,Tableau Pork BBQ,2,62190
+Canada,Small,106,5,Tableau Pork BBQ,3,53140
+Canada,Small,106,5,Tableau Pork BBQ,4,62270
+UK,Large,201,4,Tableau Pork BBQ,1,86140
+UK,Large,201,4,Tableau Pork BBQ,2,82560
+UK,Large,201,4,Tableau Pork BBQ,3,79360
+UK,Large,201,4,Tableau Pork BBQ,4,77170
+UK,Large,202,8,Query Blue Cheese,1,88730
+UK,Large,202,8,Query Blue Cheese,2,85210
+UK,Large,202,8,Query Blue Cheese,3,81550
+UK,Large,202,8,Query Blue Cheese,4,94170
+UK,Large,203,12,Tableau Pork BBQ,1,89700
+UK,Large,203,12,Tableau Pork BBQ,2,78430
+UK,Large,203,12,Tableau Pork BBQ,3,84050
+UK,Large,203,12,Tableau Pork BBQ,4,81180
+UK,Large,204,1,Python Angus,1,87430
+UK,Large,204,1,Python Angus,2,81790
+UK,Large,204,1,Python Angus,3,88120
+UK,Large,204,1,Python Angus,4,75290
+UK,Large,205,19,Tableau Pork BBQ,1,83020
+UK,Large,205,19,Tableau Pork BBQ,2,90300
+UK,Large,205,19,Tableau Pork BBQ,3,85180
+UK,Large,205,19,Tableau Pork BBQ,4,89770
+UK,Large,206,11,Tableau Pork BBQ,1,82640
+UK,Large,206,11,Tableau Pork BBQ,2,82890
+UK,Large,206,11,Tableau Pork BBQ,3,82130
+UK,Large,206,11,Tableau Pork BBQ,4,88910
+UK,Large,207,1,Tableau Pork BBQ,1,87700
+UK,Large,207,1,Tableau Pork BBQ,2,81160
+UK,Large,207,1,Tableau Pork BBQ,3,81580
+UK,Large,207,1,Tableau Pork BBQ,4,94210
+UK,Large,208,1,Tableau Pork BBQ,1,96480
+UK,Large,208,1,Tableau Pork BBQ,2,84130
+UK,Large,208,1,Tableau Pork BBQ,3,91980
+UK,Large,208,1,Tableau Pork BBQ,4,81720
+UK,Large,209,1,Query Blue Cheese,1,93710
+UK,Large,209,1,Query Blue Cheese,2,96010
+UK,Large,209,1,Query Blue Cheese,3,93030
+UK,Large,209,1,Query Blue Cheese,4,97610
+UK,Large,210,19,Query Blue Cheese,1,85110
+UK,Large,210,19,Query Blue Cheese,2,88070
+UK,Large,210,19,Query Blue Cheese,3,94430
+UK,Large,210,19,Query Blue Cheese,4,89440
+UK,Large,211,13,Python Angus,1,88640
+UK,Large,211,13,Python Angus,2,81370
+UK,Large,211,13,Python Angus,3,82140
+UK,Large,211,13,Python Angus,4,79640
+UK,Large,212,3,Tableau Pork BBQ,1,84340
+UK,Large,212,3,Tableau Pork BBQ,2,87900
+UK,Large,212,3,Tableau Pork BBQ,3,76120
+UK,Large,212,3,Tableau Pork BBQ,4,82720
+UK,Large,213,4,Python Angus,1,73220
+UK,Large,213,4,Python Angus,2,75880
+UK,Large,213,4,Python Angus,3,78010
+UK,Large,213,4,Python Angus,4,80170
+UK,Large,214,5,Query Blue Cheese,1,91600
+UK,Large,214,5,Query Blue Cheese,2,80610
+UK,Large,214,5,Query Blue Cheese,3,93860
+UK,Large,214,5,Query Blue Cheese,4,83430
+UK,Large,215,7,Python Angus,1,82650
+UK,Large,215,7,Python Angus,2,77390
+UK,Large,215,7,Python Angus,3,80830
+UK,Large,215,7,Python Angus,4,80750
+UK,Large,216,4,Tableau Pork BBQ,1,94890
+UK,Large,216,4,Tableau Pork BBQ,2,74750
+UK,Large,216,4,Tableau Pork BBQ,3,93630
+UK,Large,216,4,Tableau Pork BBQ,4,80820
+UK,Large,217,5,Tableau Pork BBQ,1,91610
+UK,Large,217,5,Tableau Pork BBQ,2,79020
+UK,Large,217,5,Tableau Pork BBQ,3,86110
+UK,Large,217,5,Tableau Pork BBQ,4,82880
+UK,Large,218,2,Query Blue Cheese,1,99650
+UK,Large,218,2,Query Blue Cheese,2,88640
+UK,Large,218,2,Query Blue Cheese,3,86960
+UK,Large,218,2,Query Blue Cheese,4,89250
+UK,Large,219,7,Python Angus,1,66220
+UK,Large,219,7,Python Angus,2,82860
+UK,Large,219,7,Python Angus,3,83400
+UK,Large,219,7,Python Angus,4,75610
+UK,Large,220,3,Query Blue Cheese,1,87080
+UK,Large,220,3,Query Blue Cheese,2,89320
+UK,Large,220,3,Query Blue Cheese,3,99120
+UK,Large,220,3,Query Blue Cheese,4,85850
+UK,Large,221,23,Python Angus,1,79530
+UK,Large,221,23,Python Angus,2,74030
+UK,Large,221,23,Python Angus,3,78530
+UK,Large,221,23,Python Angus,4,76710
+UK,Large,222,6,Query Blue Cheese,1,93320
+UK,Large,222,6,Query Blue Cheese,2,85710
+UK,Large,222,6,Query Blue Cheese,3,77360
+UK,Large,222,6,Query Blue Cheese,4,91290
+Australia,Small,301,1,Python Angus,1,49610
+Australia,Small,301,1,Python Angus,2,43690
+Australia,Small,301,1,Python Angus,3,54490
+Australia,Small,301,1,Python Angus,4,61250
+Australia,Small,302,7,Tableau Pork BBQ,1,51470
+Australia,Small,302,7,Tableau Pork BBQ,2,53470
+Australia,Small,302,7,Tableau Pork BBQ,3,46830
+Australia,Small,302,7,Tableau Pork BBQ,4,56700
+Australia,Small,303,9,Query Blue Cheese,1,55940
+Australia,Small,303,9,Query Blue Cheese,2,61360
+Australia,Small,303,9,Query Blue Cheese,3,56190
+Australia,Small,303,9,Query Blue Cheese,4,62060
+Australia,Small,304,3,Query Blue Cheese,1,54010
+Australia,Small,304,3,Query Blue Cheese,2,63480
+Australia,Small,304,3,Query Blue Cheese,3,61960
+Australia,Small,304,3,Query Blue Cheese,4,55300
+Australia,Small,305,2,Python Angus,1,47890
+Australia,Small,305,2,Python Angus,2,52370
+Australia,Small,305,2,Python Angus,3,49110
+Australia,Small,305,2,Python Angus,4,52880
+Australia,Small,306,13,Query Blue Cheese,1,53790
+Australia,Small,306,13,Query Blue Cheese,2,66960
+Australia,Small,306,13,Query Blue Cheese,3,57100
+Australia,Small,306,13,Query Blue Cheese,4,65120
+Australia,Small,307,7,Python Angus,1,46980
+Australia,Small,307,7,Python Angus,2,53410
+Australia,Small,307,7,Python Angus,3,36170
+Australia,Small,307,7,Python Angus,4,55980
+Australia,Small,308,28,Python Angus,1,51870
+Australia,Small,308,28,Python Angus,2,58010
+Australia,Small,308,28,Python Angus,3,47930
+Australia,Small,308,28,Python Angus,4,51330
+Australia,Small,309,8,Query Blue Cheese,1,62160
+Australia,Small,309,8,Query Blue Cheese,2,54060
+Australia,Small,309,8,Query Blue Cheese,3,51720
+Australia,Small,309,8,Query Blue Cheese,4,59640
+Germany,Medium,401,5,Tableau Pork BBQ,1,52230
+Germany,Medium,401,5,Tableau Pork BBQ,2,51680
+Germany,Medium,401,5,Tableau Pork BBQ,3,46220
+Germany,Medium,401,5,Tableau Pork BBQ,4,46030
+Germany,Medium,402,25,Python Angus,1,40400
+Germany,Medium,402,25,Python Angus,2,50280
+Germany,Medium,402,25,Python Angus,3,52720
+Germany,Medium,402,25,Python Angus,4,38300
+Germany,Medium,403,19,Python Angus,1,51790
+Germany,Medium,403,19,Python Angus,2,42560
+Germany,Medium,403,19,Python Angus,3,44640
+Germany,Medium,403,19,Python Angus,4,45110
+Germany,Medium,404,8,Python Angus,1,42150
+Germany,Medium,404,8,Python Angus,2,42590
+Germany,Medium,404,8,Python Angus,3,49560
+Germany,Medium,404,8,Python Angus,4,39250
+Germany,Medium,405,4,Python Angus,1,48180
+Germany,Medium,405,4,Python Angus,2,48250
+Germany,Medium,405,4,Python Angus,3,46420
+Germany,Medium,405,4,Python Angus,4,43770
+Germany,Medium,406,3,Python Angus,1,45300
+Germany,Medium,406,3,Python Angus,2,48840
+Germany,Medium,406,3,Python Angus,3,45080
+Germany,Medium,406,3,Python Angus,4,44670
+Germany,Medium,407,6,Tableau Pork BBQ,1,45560
+Germany,Medium,407,6,Tableau Pork BBQ,2,55190
+Germany,Medium,407,6,Tableau Pork BBQ,3,37840
+Germany,Medium,407,6,Tableau Pork BBQ,4,50070
+Germany,Medium,408,9,Python Angus,1,47330
+Germany,Medium,408,9,Python Angus,2,45420
+Germany,Medium,408,9,Python Angus,3,44310
+Germany,Medium,408,9,Python Angus,4,40260
+Germany,Medium,409,14,Python Angus,1,43270
+Germany,Medium,409,14,Python Angus,2,48330
+Germany,Medium,409,14,Python Angus,3,44140
+Germany,Medium,409,14,Python Angus,4,51500
+Germany,Medium,410,11,Query Blue Cheese,1,49950
+Germany,Medium,410,11,Query Blue Cheese,2,55110
+Germany,Medium,410,11,Query Blue Cheese,3,55280
+Germany,Medium,410,11,Query Blue Cheese,4,54700
+Germany,Medium,411,23,Tableau Pork BBQ,1,50110
+Germany,Medium,411,23,Tableau Pork BBQ,2,55590
+Germany,Medium,411,23,Tableau Pork BBQ,3,54370
+Germany,Medium,411,23,Tableau Pork BBQ,4,51910
+Germany,Medium,412,6,Query Blue Cheese,1,59340
+Germany,Medium,412,6,Query Blue Cheese,2,62630
+Germany,Medium,412,6,Query Blue Cheese,3,49080
+Germany,Medium,412,6,Query Blue Cheese,4,58040
+Germany,Medium,413,1,Python Angus,1,46260
+Germany,Medium,413,1,Python Angus,2,47710
+Germany,Medium,413,1,Python Angus,3,54090
+Germany,Medium,413,1,Python Angus,4,46890
+Germany,Medium,414,1,Tableau Pork BBQ,1,57370
+Germany,Medium,414,1,Tableau Pork BBQ,2,55530
+Germany,Medium,414,1,Tableau Pork BBQ,3,51160
+Germany,Medium,414,1,Tableau Pork BBQ,4,57060
+Germany,Medium,415,12,Tableau Pork BBQ,1,50590
+Germany,Medium,415,12,Tableau Pork BBQ,2,48640
+Germany,Medium,415,12,Tableau Pork BBQ,3,50550
+Germany,Medium,415,12,Tableau Pork BBQ,4,49080
+France,Medium,501,6,Tableau Pork BBQ,1,24750
+France,Medium,501,6,Tableau Pork BBQ,2,41470
+France,Medium,501,6,Tableau Pork BBQ,3,35100
+France,Medium,501,6,Tableau Pork BBQ,4,34330
+France,Medium,502,19,Python Angus,1,31940
+France,Medium,502,19,Python Angus,2,29640
+France,Medium,502,19,Python Angus,3,33640
+France,Medium,502,19,Python Angus,4,36050
+France,Medium,503,2,Python Angus,1,36700
+France,Medium,503,2,Python Angus,2,41530
+France,Medium,503,2,Python Angus,3,27710
+France,Medium,503,2,Python Angus,4,37200
+France,Medium,504,4,Query Blue Cheese,1,42160
+France,Medium,504,4,Query Blue Cheese,2,36800
+France,Medium,504,4,Query Blue Cheese,3,46980
+France,Medium,504,4,Query Blue Cheese,4,47350
+France,Medium,505,1,Python Angus,1,32210
+France,Medium,505,1,Python Angus,2,38410
+France,Medium,505,1,Python Angus,3,37900
+France,Medium,505,1,Python Angus,4,44840
+France,Medium,506,12,Python Angus,1,37450
+France,Medium,506,12,Python Angus,2,35460
+France,Medium,506,12,Python Angus,3,31850
+France,Medium,506,12,Python Angus,4,19260
+France,Medium,507,5,Python Angus,1,38650
+France,Medium,507,5,Python Angus,2,17340
+France,Medium,507,5,Python Angus,3,33140
+France,Medium,507,5,Python Angus,4,23440
+France,Medium,508,5,Tableau Pork BBQ,1,37170
+France,Medium,508,5,Tableau Pork BBQ,2,30520
+France,Medium,508,5,Tableau Pork BBQ,3,32509
+France,Medium,508,5,Tableau Pork BBQ,4,29120
+France,Medium,509,8,Query Blue Cheese,1,40460
+France,Medium,509,8,Query Blue Cheese,2,41250
+France,Medium,509,8,Query Blue Cheese,3,32049
+France,Medium,509,8,Query Blue Cheese,4,47500
+France,Medium,510,7,Python Angus,1,32770
+France,Medium,510,7,Python Angus,2,30260
+France,Medium,510,7,Python Angus,3,27550
+France,Medium,510,7,Python Angus,4,27370
+France,Medium,511,24,Tableau Pork BBQ,1,47480
+France,Medium,511,24,Tableau Pork BBQ,2,39410
+France,Medium,511,24,Tableau Pork BBQ,3,43290
+France,Medium,511,24,Tableau Pork BBQ,4,42590
+France,Medium,512,4,Query Blue Cheese,1,35300
+France,Medium,512,4,Query Blue Cheese,2,35860
+France,Medium,512,4,Query Blue Cheese,3,49300
+France,Medium,512,4,Query Blue Cheese,4,30810
+France,Medium,513,7,Query Blue Cheese,1,44980
+France,Medium,513,7,Query Blue Cheese,2,41710
+France,Medium,513,7,Query Blue Cheese,3,41100
+France,Medium,513,7,Query Blue Cheese,4,40970
+France,Medium,514,6,Query Blue Cheese,1,41100
+France,Medium,514,6,Query Blue Cheese,2,41560
+France,Medium,514,6,Query Blue Cheese,3,36390
+France,Medium,514,6,Query Blue Cheese,4,39670
+France,Medium,515,8,Tableau Pork BBQ,1,34460
+France,Medium,515,8,Tableau Pork BBQ,2,40130
+France,Medium,515,8,Tableau Pork BBQ,3,32180
+France,Medium,515,8,Tableau Pork BBQ,4,43730
+Spain,Medium,601,7,Tableau Pork BBQ,1,49010
+Spain,Medium,601,7,Tableau Pork BBQ,2,46290
+Spain,Medium,601,7,Tableau Pork BBQ,3,37140
+Spain,Medium,601,7,Tableau Pork BBQ,4,42820
+Spain,Medium,602,4,Tableau Pork BBQ,1,47220
+Spain,Medium,602,4,Tableau Pork BBQ,2,35240
+Spain,Medium,602,4,Tableau Pork BBQ,3,47220
+Spain,Medium,602,4,Tableau Pork BBQ,4,43150
+Spain,Medium,603,4,Python Angus,1,40710
+Spain,Medium,603,4,Python Angus,2,38260
+Spain,Medium,603,4,Python Angus,3,41440
+Spain,Medium,603,4,Python Angus,4,25700
+Spain,Medium,604,11,Tableau Pork BBQ,1,40290
+Spain,Medium,604,11,Tableau Pork BBQ,2,48350
+Spain,Medium,604,11,Tableau Pork BBQ,3,43260
+Spain,Medium,604,11,Tableau Pork BBQ,4,44200
+Spain,Medium,605,8,Tableau Pork BBQ,1,46140
+Spain,Medium,605,8,Tableau Pork BBQ,2,41120
+Spain,Medium,605,8,Tableau Pork BBQ,3,45030
+Spain,Medium,605,8,Tableau Pork BBQ,4,38850
+Spain,Medium,606,8,Tableau Pork BBQ,1,41960
+Spain,Medium,606,8,Tableau Pork BBQ,2,42270
+Spain,Medium,606,8,Tableau Pork BBQ,3,38510
+Spain,Medium,606,8,Tableau Pork BBQ,4,43510
+Spain,Medium,607,3,Python Angus,1,49390
+Spain,Medium,607,3,Python Angus,2,40250
+Spain,Medium,607,3,Python Angus,3,42460
+Spain,Medium,607,3,Python Angus,4,31620
+Spain,Medium,608,18,Query Blue Cheese,1,53380
+Spain,Medium,608,18,Query Blue Cheese,2,55310
+Spain,Medium,608,18,Query Blue Cheese,3,56100
+Spain,Medium,608,18,Query Blue Cheese,4,43240
+Spain,Medium,609,9,Query Blue Cheese,1,48180
+Spain,Medium,609,9,Query Blue Cheese,2,43110
+Spain,Medium,609,9,Query Blue Cheese,3,43780
+Spain,Medium,609,9,Query Blue Cheese,4,56900
+Spain,Medium,610,4,Query Blue Cheese,1,53530
+Spain,Medium,610,4,Query Blue Cheese,2,47920
+Spain,Medium,610,4,Query Blue Cheese,3,56180
+Spain,Medium,610,4,Query Blue Cheese,4,46660
+Spain,Medium,611,11,Tableau Pork BBQ,1,40430
+Spain,Medium,611,11,Tableau Pork BBQ,2,51150
+Spain,Medium,611,11,Tableau Pork BBQ,3,42500
+Spain,Medium,611,11,Tableau Pork BBQ,4,52760
+Spain,Medium,612,1,Tableau Pork BBQ,1,47630
+Spain,Medium,612,1,Tableau Pork BBQ,2,52210
+Spain,Medium,612,1,Tableau Pork BBQ,3,40170
+Spain,Medium,612,1,Tableau Pork BBQ,4,48360
+Spain,Medium,613,18,Query Blue Cheese,1,42760
+Spain,Medium,613,18,Query Blue Cheese,2,50520
+Spain,Medium,613,18,Query Blue Cheese,3,56860
+Spain,Medium,613,18,Query Blue Cheese,4,47510
+Spain,Medium,614,8,Python Angus,1,38560
+Spain,Medium,614,8,Python Angus,2,37290
+Spain,Medium,614,8,Python Angus,3,35600
+Spain,Medium,614,8,Python Angus,4,33350
+Spain,Medium,615,1,Python Angus,1,48500
+Spain,Medium,615,1,Python Angus,2,36800
+Spain,Medium,615,1,Python Angus,3,48320
+Spain,Medium,615,1,Python Angus,4,41540
+Mexico,Medium,701,1,Tableau Pork BBQ,1,53560
+Mexico,Medium,701,1,Tableau Pork BBQ,2,49720
+Mexico,Medium,701,1,Tableau Pork BBQ,3,48770
+Mexico,Medium,701,1,Tableau Pork BBQ,4,46840
+Mexico,Medium,702,13,Query Blue Cheese,1,51820
+Mexico,Medium,702,13,Query Blue Cheese,2,45020
+Mexico,Medium,702,13,Query Blue Cheese,3,49440
+Mexico,Medium,702,13,Query Blue Cheese,4,51320
+Mexico,Medium,703,4,Query Blue Cheese,1,52850
+Mexico,Medium,703,4,Query Blue Cheese,2,40840
+Mexico,Medium,703,4,Query Blue Cheese,3,64450
+Mexico,Medium,703,4,Query Blue Cheese,4,44430
+Mexico,Medium,704,27,Query Blue Cheese,1,56640
+Mexico,Medium,704,27,Query Blue Cheese,2,46060
+Mexico,Medium,704,27,Query Blue Cheese,3,55460
+Mexico,Medium,704,27,Query Blue Cheese,4,51410
+Mexico,Medium,705,22,Tableau Pork BBQ,1,49670
+Mexico,Medium,705,22,Tableau Pork BBQ,2,49980
+Mexico,Medium,705,22,Tableau Pork BBQ,3,49500
+Mexico,Medium,705,22,Tableau Pork BBQ,4,47350
+Mexico,Medium,706,17,Tableau Pork BBQ,1,50260
+Mexico,Medium,706,17,Tableau Pork BBQ,2,52050
+Mexico,Medium,706,17,Tableau Pork BBQ,3,51140
+Mexico,Medium,706,17,Tableau Pork BBQ,4,46300
+Mexico,Medium,707,5,Query Blue Cheese,1,56990
+Mexico,Medium,707,5,Query Blue Cheese,2,45570
+Mexico,Medium,707,5,Query Blue Cheese,3,45920
+Mexico,Medium,707,5,Query Blue Cheese,4,50520
+Mexico,Medium,708,15,Python Angus,1,32610
+Mexico,Medium,708,15,Python Angus,2,57270
+Mexico,Medium,708,15,Python Angus,3,37320
+Mexico,Medium,708,15,Python Angus,4,41220
+Mexico,Medium,709,1,Python Angus,1,39730
+Mexico,Medium,709,1,Python Angus,2,50300
+Mexico,Medium,709,1,Python Angus,3,40160
+Mexico,Medium,709,1,Python Angus,4,41370
+Mexico,Medium,710,24,Tableau Pork BBQ,1,54790
+Mexico,Medium,710,24,Tableau Pork BBQ,2,52390
+Mexico,Medium,710,24,Tableau Pork BBQ,3,42150
+Mexico,Medium,710,24,Tableau Pork BBQ,4,49630
+Mexico,Medium,711,1,Query Blue Cheese,1,54950
+Mexico,Medium,711,1,Query Blue Cheese,2,55780
+Mexico,Medium,711,1,Query Blue Cheese,3,46490
+Mexico,Medium,711,1,Query Blue Cheese,4,56840
+Mexico,Medium,712,9,Tableau Pork BBQ,1,48060
+Mexico,Medium,712,9,Tableau Pork BBQ,2,51090
+Mexico,Medium,712,9,Tableau Pork BBQ,3,44190
+Mexico,Medium,712,9,Tableau Pork BBQ,4,49520
+Brasil,Medium,801,3,Query Blue Cheese,1,65110
+Brasil,Medium,801,3,Query Blue Cheese,2,54380
+Brasil,Medium,801,3,Query Blue Cheese,3,57140
+Brasil,Medium,801,3,Query Blue Cheese,4,49910
+Brasil,Medium,802,9,Python Angus,1,48760
+Brasil,Medium,802,9,Python Angus,2,44140
+Brasil,Medium,802,9,Python Angus,3,58100
+Brasil,Medium,802,9,Python Angus,4,44160
+Brasil,Medium,803,10,Tableau Pork BBQ,1,44660
+Brasil,Medium,803,10,Tableau Pork BBQ,2,53780
+Brasil,Medium,803,10,Tableau Pork BBQ,3,43910
+Brasil,Medium,803,10,Tableau Pork BBQ,4,52410
+Brasil,Medium,804,1,Query Blue Cheese,1,50540
+Brasil,Medium,804,1,Query Blue Cheese,2,58430
+Brasil,Medium,804,1,Query Blue Cheese,3,59770
+Brasil,Medium,804,1,Query Blue Cheese,4,60440
+Brasil,Medium,805,6,Tableau Pork BBQ,1,50940
+Brasil,Medium,805,6,Tableau Pork BBQ,2,49380
+Brasil,Medium,805,6,Tableau Pork BBQ,3,63980
+Brasil,Medium,805,6,Tableau Pork BBQ,4,45840
+Brasil,Medium,806,5,Tableau Pork BBQ,1,51010
+Brasil,Medium,806,5,Tableau Pork BBQ,2,56160
+Brasil,Medium,806,5,Tableau Pork BBQ,3,45770
+Brasil,Medium,806,5,Tableau Pork BBQ,4,46470
+Brasil,Medium,807,1,Python Angus,1,46020
+Brasil,Medium,807,1,Python Angus,2,51090
+Brasil,Medium,807,1,Python Angus,3,51680
+Brasil,Medium,807,1,Python Angus,4,55910
+Brasil,Medium,808,20,Tableau Pork BBQ,1,55900
+Brasil,Medium,808,20,Tableau Pork BBQ,2,59800
+Brasil,Medium,808,20,Tableau Pork BBQ,3,60970
+Brasil,Medium,808,20,Tableau Pork BBQ,4,64140
+Brasil,Medium,809,9,Tableau Pork BBQ,1,39980
+Brasil,Medium,809,9,Tableau Pork BBQ,2,54580
+Brasil,Medium,809,9,Tableau Pork BBQ,3,52640
+Brasil,Medium,809,9,Tableau Pork BBQ,4,45430
+Brasil,Medium,810,13,Query Blue Cheese,1,49300
+Brasil,Medium,810,13,Query Blue Cheese,2,61800
+Brasil,Medium,810,13,Query Blue Cheese,3,58000
+Brasil,Medium,810,13,Query Blue Cheese,4,55200
+China,Large,901,7,Python Angus,1,53760
+China,Large,901,7,Python Angus,2,39360
+China,Large,901,7,Python Angus,3,47200
+China,Large,901,7,Python Angus,4,53660
+China,Large,902,1,Query Blue Cheese,1,61530
+China,Large,902,1,Query Blue Cheese,2,59170
+China,Large,902,1,Query Blue Cheese,3,63730
+China,Large,902,1,Query Blue Cheese,4,61770
+China,Large,903,7,Tableau Pork BBQ,1,51890
+China,Large,903,7,Tableau Pork BBQ,2,51170
+China,Large,903,7,Tableau Pork BBQ,3,54330
+China,Large,903,7,Tableau Pork BBQ,4,50050
+China,Large,904,10,Python Angus,1,51090
+China,Large,904,10,Python Angus,2,54820
+China,Large,904,10,Python Angus,3,44160
+China,Large,904,10,Python Angus,4,53950
+China,Large,905,2,Tableau Pork BBQ,1,54340
+China,Large,905,2,Tableau Pork BBQ,2,60240
+China,Large,905,2,Tableau Pork BBQ,3,56390
+China,Large,905,2,Tableau Pork BBQ,4,58330
+China,Large,906,13,Python Angus,1,51260
+China,Large,906,13,Python Angus,2,51730
+China,Large,906,13,Python Angus,3,51350
+China,Large,906,13,Python Angus,4,41850
+China,Large,907,10,Python Angus,1,45210
+China,Large,907,10,Python Angus,2,55020
+China,Large,907,10,Python Angus,3,45350
+China,Large,907,10,Python Angus,4,47060
+China,Large,908,3,Python Angus,1,43590
+China,Large,908,3,Python Angus,2,46030
+China,Large,908,3,Python Angus,3,47220
+China,Large,908,3,Python Angus,4,51410
+China,Large,909,1,Query Blue Cheese,1,58190
+China,Large,909,1,Query Blue Cheese,2,62720
+China,Large,909,1,Query Blue Cheese,3,66660
+China,Large,909,1,Query Blue Cheese,4,64660
+China,Large,910,1,Query Blue Cheese,1,66340
+China,Large,910,1,Query Blue Cheese,2,60590
+China,Large,910,1,Query Blue Cheese,3,61950
+China,Large,910,1,Query Blue Cheese,4,67840
+China,Large,911,1,Python Angus,1,55390
+China,Large,911,1,Python Angus,2,49160
+China,Large,911,1,Python Angus,3,58260
+China,Large,911,1,Python Angus,4,48120
+China,Large,912,6,Python Angus,1,49980
+China,Large,912,6,Python Angus,2,44840
+China,Large,912,6,Python Angus,3,55120
+China,Large,912,6,Python Angus,4,47360
+China,Large,913,24,Query Blue Cheese,1,62330
+China,Large,913,24,Query Blue Cheese,2,53680
+China,Large,913,24,Query Blue Cheese,3,62370
+China,Large,913,24,Query Blue Cheese,4,63580
+China,Large,914,9,Python Angus,1,44700
+China,Large,914,9,Python Angus,2,43440
+China,Large,914,9,Python Angus,3,52360
+China,Large,914,9,Python Angus,4,45900
+China,Large,915,3,Query Blue Cheese,1,53510
+China,Large,915,3,Query Blue Cheese,2,49760
+China,Large,915,3,Query Blue Cheese,3,68310
+China,Large,915,3,Query Blue Cheese,4,66100
+China,Large,916,7,Python Angus,1,43610
+China,Large,916,7,Python Angus,2,46200
+China,Large,916,7,Python Angus,3,51520
+China,Large,916,7,Python Angus,4,49710
+China,Large,917,14,Tableau Pork BBQ,1,53500
+China,Large,917,14,Tableau Pork BBQ,2,56340
+China,Large,917,14,Tableau Pork BBQ,3,51830
+China,Large,917,14,Tableau Pork BBQ,4,50200
+China,Large,918,6,Query Blue Cheese,1,49620
+China,Large,918,6,Query Blue Cheese,2,62540
+China,Large,918,6,Query Blue Cheese,3,50110
+China,Large,918,6,Query Blue Cheese,4,61630
+China,Large,919,2,Query Blue Cheese,1,59870
+China,Large,919,2,Query Blue Cheese,2,62990
+China,Large,919,2,Query Blue Cheese,3,57200
+China,Large,919,2,Query Blue Cheese,4,64340
+China,Large,920,14,Python Angus,1,50200
+China,Large,920,14,Python Angus,2,45750
+China,Large,920,14,Python Angus,3,44290
+China,Large,920,14,Python Angus,4,49410
